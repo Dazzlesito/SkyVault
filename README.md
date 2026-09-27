@@ -49,3 +49,11 @@ This repo uses a simplified [GitHub Flow](https://docs.github.com/en/get-started
 | Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) |
 | Classmate 1 | _TBD_ |
 | Classmate 2 | _TBD_ |
+
+## TODO
+
+- [ ] Decide project stack
+- [ ] Add CI workflow (`.github/workflows/`)
+- [ ] Enable required status checks on `main`
+- [ ] Add collaborators:
+      `gh api -X PUT repos/Dazzlesito/TeamDrive/collaborators/USERNAME -f permission=push`
