@@ -47,7 +47,7 @@ This repo uses a simplified [GitHub Flow](https://docs.github.com/en/get-started
 | Name | GitHub |
 | ---- | ------ |
 | Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) |
-| Classmate 1 | [@Xavyer77](https://github.com/Xavyer77) |
+| Robinson Bastidas | [@Xavyer77](https://github.com/Xavyer77) |
 | Classmate 2 | _TBD_ |
 
 ## TODO
