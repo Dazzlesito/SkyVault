@@ -1,12 +1,12 @@
-# TeamDrive
+# SkyVault
 
 > Short description of the project — replace this line.
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/Dazzlesito/TeamDrive.git
-cd TeamDrive
+git clone https://github.com/Dazzlesito/SkyVault.git
+cd SkyVault
 ```
 
 ## GitHub Flow
@@ -56,4 +56,4 @@ This repo uses a simplified [GitHub Flow](https://docs.github.com/en/get-started
 - [ ] Add CI workflow (`.github/workflows/`)
 - [ ] Enable required status checks on `main`
 - [ ] Add collaborators:
-      `gh api -X PUT repos/Dazzlesito/TeamDrive/collaborators/USERNAME -f permission=push`
+      `gh api -X PUT repos/Dazzlesito/SkyVault/collaborators/USERNAME -f permission=push`
