@@ -5,7 +5,7 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/TeamDrive.git
+git clone https://github.com/Dazzlesito/TeamDrive.git
 cd TeamDrive
 ```
 
@@ -46,6 +46,6 @@ This repo uses a simplified [GitHub Flow](https://docs.github.com/en/get-started
 
 | Name | GitHub |
 | ---- | ------ |
-| Andrés Cortés | @your-username |
-| Classmate 1 | |
-| Classmate 2 | |
+| Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) |
+| Classmate 1 | _TBD_ |
+| Classmate 2 | _TBD_ |
