@@ -48,7 +48,7 @@ This repo uses a simplified [GitHub Flow](https://docs.github.com/en/get-started
 | ---- | ------ |
 | Andrés Cortés | [@Dazzlesito](https://github.com/Dazzlesito) |
 | Robinson Bastidas | [@Xavyer77](https://github.com/Xavyer77) |
-| Classmate 2 | _TBD_ |
+| Daniela Peña | [@danilops018](https://github.com/danilops018) |
 
 ## TODO
 
